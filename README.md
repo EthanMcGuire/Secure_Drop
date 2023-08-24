@@ -7,6 +7,7 @@ The goal of this project was to practice network security. Specifically the encr
 # Installation
 
 To run this program, you will need at least 2 seperate directories of the source code. Think of it as 2 users installing the program seperately. You will need to install Python3 and the dependencies listed in requirements.txt.
+    pip install -r requirements.txt
 
 # How to Use
 
