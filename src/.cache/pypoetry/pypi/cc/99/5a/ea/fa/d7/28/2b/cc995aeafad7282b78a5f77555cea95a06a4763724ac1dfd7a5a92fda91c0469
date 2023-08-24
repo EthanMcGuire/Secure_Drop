@@ -1,0 +1,1 @@
+9999999999{"name": "thread_utils", "version": "1.0.1", "summary": "Wrapper of threading module providing Actor interface.", "platform": "linux,unix", "requires_dist": null, "requires_python": null, "files": [], "_cache_version": "1.0.0"}

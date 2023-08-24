@@ -1,0 +1,1 @@
+9999999999{"name": "ssl", "version": "1.16", "summary": "SSL wrapper for socket objects (2.3, 2.4, 2.5 compatible)", "platform": "UNKNOWN", "requires_dist": null, "requires_python": null, "files": [], "_cache_version": "1.0.0"}

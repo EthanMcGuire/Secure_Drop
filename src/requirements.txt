@@ -1,0 +1,6 @@
+pwinput>=1.0.2
+bcrypt>=4.0.1        # Requires rustc>=1.56.0
+pycryptodome>=3.16.0 # Requires Microsoft C++ build tools
+psutil>=5.9.4
+parse>=1.19.0
+pyOpenSSL>=22.1.0
